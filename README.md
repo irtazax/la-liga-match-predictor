@@ -8,7 +8,7 @@ This project trains a PyTorch neural network on 30 seasons of historical La Liga
 
 ## Demo
 
-![Predicted La Liga Standings](laliga_table.png)
+![Predicted La Liga Standings](Images/LaLigaTable.jpg)
 
 ## How It Works
 
